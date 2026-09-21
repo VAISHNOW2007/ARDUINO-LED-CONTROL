@@ -22,7 +22,7 @@ To control an LED using an Arduino board and understand the basic operation of d
 
 # **4\. Working**
 
-## The LED is connected to a digital output pin of the Arduino through a resistor. The Arduino program sets the selected pin as an output. When the pin is set to HIGH, current flows through the LED and it glows. When the pin is set to LOW, the LED turns OFF. By programming the Arduino, the LED can also be made to blink at different time intervals.![][image1]
+## The LED is connected to a digital output pin of the Arduino through a resistor. The Arduino program sets the selected pin as an output. When the pin is set to HIGH, current flows through the LED and it glows. When the pin is set to LOW, the LED turns OFF. By programming the Arduino, the LED can also be made to blink at different time intervals.![image1](aur1.png)
 
 # **5\. Applications**
 
@@ -38,7 +38,7 @@ To control an LED using an Arduino board and understand the basic operation of d
 
 # **6\. Result**
 
-![][image2]
+![image2](led1.jpeg)
 
 # The LED was successfully controlled using the Arduino board, demonstrating basic Arduino programming and digital output control.
 
